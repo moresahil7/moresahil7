@@ -1,7 +1,7 @@
 <h1> Hi there👋, I am Sahil </h1>
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on "**React Project**"
 - 🌱 I’m currently learning "**MERN Stack and Flutter**"
