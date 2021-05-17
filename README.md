@@ -1,7 +1,5 @@
 <h1> Hi there👋, I am Sahil </h1>
 
-<!--
-**sahilmore-0412/sahilmore-0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
