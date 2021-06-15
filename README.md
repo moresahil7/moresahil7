@@ -18,16 +18,15 @@
 </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 </p>
 
-<details>
+
   <h5> GitHub Stats</h5>
 
   <img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilmore-0412&show_icons=true&hide_border=true" />
 
-</details>
 
-<details>
+
   <h5> Most Used Languages</h5>
 
 <img align="left" alt="Sahil,s GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmore-0412" />
 
-</details>
+
