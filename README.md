@@ -19,15 +19,15 @@
 </p>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <h5> GitHub Stats</h5>
 
-  <img align="left" alt="Nikhil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilmore-0412&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilmore-0412&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <h5> Most Used Languages</h5>
 
-<img align="left" alt="Nikhil,s GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmore-0412" />
+<img align="left" alt="Sahil,s GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmore-0412" />
 
 </details>
