@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on "**Django Project**"
-- 🌱 I’m currently learning "**MERN Stack**"
+- 🌱 I’m currently learning "**AI/ML**"
 - 👯 I’m looking to collaborate on **Open source projects**
 
 <h3 align="left">Feel free to reach me out on:</h3>
