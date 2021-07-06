@@ -4,6 +4,7 @@
 
 
 - 🔭 I’m currently working on "**Django Project**"
+- ✨ Exploring MERN!
 - 🌱 I’m currently learning "**AI/ML**"
 - 👯 I’m looking to collaborate on **Open source projects**
 
