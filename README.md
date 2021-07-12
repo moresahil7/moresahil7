@@ -20,7 +20,7 @@
 </p>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilmore-0412&show_icons=true&hide_border=true" /><br/>
 
