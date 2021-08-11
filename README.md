@@ -2,7 +2,7 @@
 
 
 
-
+- ✨ Visit my portfolio <a href="https://sahilmore.netlify.app/">here</a>.
 - 🔭 I’m currently working on "**React/Redux Project**"
 - 🌱 I’m currently learning "**AI/ML**"
 - 👯 I’m looking to collaborate on **Open source projects**
