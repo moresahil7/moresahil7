@@ -3,7 +3,7 @@
 
 
 - ✨ Visit my portfolio <a href="https://sahilmore.netlify.app/">here</a>.
-- 🔭 I’m currently working on "**React/Firebase Project**"
+- 🔭 I’m currently working on "**MERN PROJECT**"
 - 🌱 Exploring Competitive Programming.
 - 👯 I’m looking to collaborate on **Open source projects**
 
