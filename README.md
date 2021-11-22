@@ -5,7 +5,7 @@
 - ✨ Visit my portfolio <a href="https://sahilmore.netlify.app/">here</a>.
 - 🔭 I’m currently working on "**MERN PROJECT**"
 - 🗼 I'm currently learning  "**Backend Development**"
-- 🌱 Exploring Competitive Programming.
+- 🌱 Exploring Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on **Open source projects**
 
 <h3 align="left">Feel free to reach me out on:</h3>
