@@ -35,6 +35,14 @@
   <img align="left" alt="GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=moresahil7&show_icons=true&hide_border=true" /><br/>
 
 </details>
+  <details>
+
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Sahil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moresahil7" />
+
+
+</details>
   
  
 
