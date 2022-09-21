@@ -2,7 +2,7 @@
 
 
 
-- ✨ Visit my portfolio <a href="https://sahilmore.netlify.app/">here</a>.
+- ✨ Visit my portfolio <a href="https://moresahil7.vercel.app/">here</a>.
 - 🔭 I’m currently working on "**MERN Stack PROJECT**"
 - 🗼 I'm currently learning  "**Backend Development**"
 - 🌱 Exploring Data Structures and Algorithms.
