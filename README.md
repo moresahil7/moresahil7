@@ -32,21 +32,6 @@
 <a href="https://leetcode.com/moresahil7/" target="_blank"> <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="leetcode" width="40" height="40"/> </a>   
   
  
-<div>
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=moresahil7&show_icons=true&hide_border=true" /><br/>
-
-</details>
-  <details>
-
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Sahil's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moresahil7" />
-
-
-</details>
-  
  
 
